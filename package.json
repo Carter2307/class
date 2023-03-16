@@ -1,0 +1,19 @@
+{
+	"name": "@roger.b/class",
+	"version": "0.0.1",
+	"description": "Utils ts class",
+	"main": "src/index.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Carter2307/class.git"
+	},
+	"author": "roger bentcha",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Carter2307/class/issues"
+	},
+	"homepage": "https://github.com/Carter2307/class#readme"
+}
