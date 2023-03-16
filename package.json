@@ -15,5 +15,9 @@
 	"bugs": {
 		"url": "https://github.com/Carter2307/class/issues"
 	},
-	"homepage": "https://github.com/Carter2307/class#readme"
+	"homepage": "https://github.com/Carter2307/class#readme",
+	"dependencies": {
+		"@roger.b/functions": "^0.0.1",
+		"@roger.b/types": "^0.0.1"
+	}
 }
