@@ -1,0 +1,19 @@
+.tabs {
+}
+.tabs__group {
+}
+
+.tabs__list {
+}
+
+.tabs__item {
+}
+.tabs__panels {
+}
+
+.tabs__panel {
+	display: none;
+	&-active {
+		display: inline-block;
+	}
+}
